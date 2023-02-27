@@ -18,12 +18,12 @@ Experiment with changing the values on lines 20 and 21.  You can add breakpoints
 """
 
 x = 1.2222222222
-numDecimals = 1
+numDecimals = 6
 x = round(x , numDecimals)
 print(x)
 
-y = round(x)
+y = round(x , 3)
 print(y)
 
-z = round(3.14159 , 2)
+z = round(3.14159 , 1)
 print(z)
