@@ -17,6 +17,7 @@ You may use either math.sqrt(x) or the exponent to the power of 0.5 for your squ
 
 import math
 print("\n\nThis calculator is used to find a missing side length in a right triangle")
+print("\nMr. Yang would appreciate it if you were to enter 5 and 8 as a and b to test the program")
 a = 0.0
 b = 0.0
 c = 0.0
